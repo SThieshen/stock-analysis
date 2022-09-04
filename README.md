@@ -10,6 +10,8 @@ The data was presented in two Excel spreadsheets featuring stock information on 
 ## Results
 ### Analysis
 My first step for refactoring the code included copying the code needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring. Below is the code with the modified steps:
+    
+    
     '1a) Create a ticker Index
         tickerIndex = 0
     
