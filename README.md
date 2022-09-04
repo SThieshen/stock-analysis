@@ -70,7 +70,7 @@ My first step for refactoring the code included copying the code that was needed
             Next i
 
 
-The next step was running the refactored code to determine if there was improved speed with the analysis. In the first image, https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018.png this was run prior to refactoring our code. The second image As you can see when click on the links, the speed did improve.
+The next step was running the refactored code to determine if there was improved speed with the analysis. In the first image, https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018.png this was run prior to refactoring our code. The second image https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018_refactored.png is analysis for the same information, but with the code refactored. As you can see when click on the links, the speed did improve.
 
 ## Summary
 ### Pros and Cons of Refactoring Code
