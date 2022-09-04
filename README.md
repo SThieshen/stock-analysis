@@ -70,7 +70,7 @@ My first step for refactoring the code included copying the code that was needed
             Next i
 
 
-The next step was running the refactored code to determine if there was improved speed with the analysis. In the first image, https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018.png this was run prior to refactoring our code. The second image https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018_refactored.png is analysis for the same information, but with the code refactored. As you can see when click on the links, the speed did improve.
+The next step was running the refactored code to determine if there was improved speed with the analysis. In the first image, https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018.png this was run prior to refactoring our code. The second image https://github.com/SThieshen/stock-analysis/blob/main/VBA_Challenge_2018_refactored.png is analysis for the same information, but with the code refactored. As you can see when clicking on the links, the speed did improve.
 
 ## Summary
 ### Pros and Cons of Refactoring Code
@@ -78,4 +78,4 @@ The next step was running the refactored code to determine if there was improved
 When code is refactored, we are able to organize it better, debug it, and make the program run faster. We are also able to simplfy the code, making it easier to read for others. It can also save time and money by making the code more maintainable. Unfortunately, sometimes refactoring code costs more in the short run and we don't always have the luxury of time and money to refactor it. There is also the chance new bugs could be introduced within a program when the code is refactored.
 
 ### The Advantages of Refactoring VBA Analysis
-The most noted benefit of refactoring the original VBA script was the decrease in macro run time. The original analysis took almost one second to run, but the new analysis took about a fifth of that time to run. Running at optimal efficiency is important in all programming.
+The most noted benefit of refactoring the original VBA script was the decrease in macro run time. The original analysis took almost one second to run, but the new analysis took almost a tenth of that time to run. Running at optimal efficiency is important in all programming.
