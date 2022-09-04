@@ -2,7 +2,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project was to refactor Microsoft Excel VBA code. We took collected stock information on specific stocks in the year 2017 and 2018 and analyzed the data to determine whether or not the stocks are worth investing. This was completed in multi-step processes, with the ultimate goal being able to refactor the original code to run quicker and more efficiently.
+The purpose of this project was to refactor Microsoft Excel VBA code. We took collected stock information on specific stocks in the year 2017 and 2018 and analyzed the data to determine whether or not the stocks were worth investing. This was completed in multi-step processes, with the ultimate goal being able to refactor the original code to run quicker and more efficiently.
 
 ### The Data
 The data was presented in two Excel spreadsheets featuring stock information on 12 different stocks. The information included a ticker value, the date the stock was issued, the opening, closing and adjusted closing price, the highest and lowest price, and the volume of the stock. The goal was to retrieve the ticker, the total daily volume, and the return on each stock.
